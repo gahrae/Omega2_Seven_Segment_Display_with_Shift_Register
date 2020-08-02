@@ -4,7 +4,7 @@
 Control a seven-segment display from Omega2/Python
 
 ## Pin Mapping
-![pin mapping](/images/pin_mapping.png)
+![pin mappings](/images/pin_mappings.png)
 
 ## Wiring
 For single digit (Part: 5101AS)
