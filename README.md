@@ -3,8 +3,10 @@
 ## Purpose
 Control a seven-segment display from Omega2/Python
 
-## Wiring
+## Pin Mapping
 ![pin mapping](/images/pin_mapping.png)
+
+## Wiring
 ![single digit](/images/single_digit.png)
 ![three digits](/images/three_digits.png)
 
