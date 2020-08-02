@@ -1,10 +1,12 @@
-# Omega 2: Seven Segment Display (single-digit)
+# Omega 2: Seven Segment Display with Shift Register
 
 ## Purpose
-Control a single-digit seven-segment display from Omega2/Python
+Control a seven-segment display from Omega2/Python
 
 ## Wiring
-![wiring](/images/wiring.png)
+![pin mapping](/images/pin_mapping.png)
+![single digit](/images/single_digit.png)
+![three digits](/images/three_digits.png)
 
 ## Usage
 ``` bash
