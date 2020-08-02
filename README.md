@@ -10,7 +10,7 @@ Control a seven-segment display from Omega2/Python
 For single digit (Part: 5101AS)
 ![single digit](/images/single_digit.png)
 
-For three digits (PART: ARK SP400561N 1413)
+For three digits (Part: ARK SP400561N 1413)
 ![three digits](/images/three_digits.png)
 
 ## Usage
