@@ -21,4 +21,6 @@ python sevenSeg.py
 
 ## References
 * Tutorial : https://docs.onion.io/omega2-maker-kit/starter-kit-using-shift-register.html
+* Fritzing Application: https://fritzing.org/
+* Onion Omega Fritzing Models: https://github.com/OnionIoT/Fritzing-Models
 * Online circuit design: https://www.tinkercad.com/
